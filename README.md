@@ -1,3 +1,1 @@
-# patatap-clone
-
-This is a clone of Patatap. It uses HowlerJS and PaperJS to sync key presses to their sound file
+This is a clone of the Patatap application. Using Howler.js and Paper.js to utilize key events and sound queues.
